@@ -14,7 +14,7 @@
 ## Что делать после клонирования репозитория?
 
 1. Запустить `composer update`
-2. Создать в папке **config** создать файл _config.php- взяв за основу _config.example.php_
+2. Создать в папке **config** создать файл config.php- взяв за основу _config.example.php_
 3. Создать в корне папку **cache** (`chmod 744 cache`)
 
 ![](https://miro.medium.com/max/700/1*JwJspWRLr_jPv9yvyBd1lA.png)
